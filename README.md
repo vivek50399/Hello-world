@@ -1,5 +1,7 @@
-# Hello-world
-This is vivek 
-**ABOUT ME:**
-I'm an international student doing masters in computer science at SLU.
-As a part of assignment I'm creating this repo
+1.click on Clone repo
+2.Select yg-drone-project
+
+![Screenshot (3)](https://github.com/vivek50399/Hello-world/assets/120746953/941a40d7-76c7-466e-a805-74aeb2b0c93e)
+
+3.Select the folder and open the cloned repo
+4.Once you have the extensions installed you will be able to see pull requests and issues and you can work on it.
